@@ -1,4 +1,4 @@
-# Phone-Operator
+# Phone-Operator (data structures project)
 
 # Description
 There is a phone operation station with 2 operators working in. The operators must establish connections between people trying to call each other on two sides of a city. Everything in this station is analog; there is only one physical cable to make people talk. This means that only one phone call may occur at the same time.
